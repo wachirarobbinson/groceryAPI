@@ -1,0 +1,117 @@
+{
+"fruits_and_vegetables": [
+    {
+      "itemname": "Apples",
+      "price": 50,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/03/20/39/85/1000_F_320398505_k0sHJERagsO5bqPUrQAChjXhSI5urLzR.jpg"
+    },
+    {
+      "itemname": "Mangoes",
+      "price": 50,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/01/16/74/99/1000_F_116749966_1poTFn8E9P9X4aMZCYTzbNbF9Uyc24gt.jpg"
+    },
+    {
+      "itemname": "Grapes",
+      "price": 40,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/01/76/81/34/1000_F_176813492_foSMHckdjTSqOxaQzBa1JgoSuWaoICco.jpg"
+    },
+    {
+      "itemname": "Melones",
+      "price": 35,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/02/03/04/37/1000_F_203043777_KNAEAEQyNVJCoi3NsDz5Oyji1MACCTvN.jpg"
+    },
+    {
+      "itemname": "cabbages",
+      "price": 30,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/05/91/85/88/1000_F_591858814_Nf7kB1r7N2lKoHpcrJehCU1UhLYq33Af.jpg"
+    },
+    {
+      "itemname": "Strawberries",
+      "price": 45,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/01/94/58/96/1000_F_194589639_QrC7pzqnyPtzlSNydJT7QDrWWO0kd1dt.jpg"
+    }
+  ],
+
+  "dairy_products": [
+    {
+      "itemname": "Milk",
+      "price": 80,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/01/36/31/04/1000_F_136310491_visP7SdT4boRa8FXZvdwxkDr2uw6pSab.jpg"
+    },
+    {
+      "itemname": "Cheese",
+      "price": 300,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/02/48/16/33/1000_F_248163313_zlTapa5Hqt5Tnchqk2vesGyFt7wNE3j4.jpg"
+    },
+    {
+      "itemname": "Butter",
+      "price": 250,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/00/61/79/28/1000_F_61792842_vVsXD3roFaq3WbM5AFa2TifKNINIs7He.jpg"
+    },
+    {
+      "itemname": "Yogurt",
+      "price": 120,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/02/04/77/91/1000_F_204779182_cfsMNCRpgLSQlFC1nVhHzkf61A2YnXeG.jpg"
+    }
+  ],
+   "meat": [
+    {
+      "itemname": "Pork",
+      "price": 450,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/00/78/90/00/1000_F_78900075_W58c6HKxuPKJGhHH5tgmyx2fiWJWCA9Z.jpg"
+    },
+    {
+      "itemname": "Beef",
+      "price": 500,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/00/35/05/10/1000_F_35051088_GgfEGJOwyIi2K8ClbeRaYr7HLxo7dEOj.jpg"
+    },
+    {
+      "itemname": "Chicken",
+      "price": 400,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/01/36/55/00/1000_F_136550049_8KpLHPjaA1QFAs7Swd2PWhJ1ZHJWFmXD.jpg"
+    },
+    {
+      "itemname": "Sea food",
+      "price": 600,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/00/38/82/51/1000_F_38825184_ZfzMo82o3ITYDZHk8o235zCL667uStEs.jpg"
+    },
+    {
+      "itemname": "Lobster",
+      "price": 550,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/00/61/69/61/1000_F_61696157_nHwq4CDXO178GbnsaCzQsO6zmVLJg1iJ.jpg"
+    },
+    {
+      "itemname": "Fish",
+      "price": 350,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/03/00/14/95/1000_F_300149536_olYQpitWca8mpDsztU2cRrNGRZR5N3Q1.jpg"
+    }
+  ],
+
+"pantry": [
+    {
+      "itemname": "Rice",
+      "price": 80,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/00/96/54/43/1000_F_96544334_KXmOaL6dI66orTmAQFqwijiy5nldktVu.jpg"
+    },
+    {
+      "itemname": "Pasta",
+      "price": 300,
+      "imageurl": "https://as1.ftcdn.net/v2/jpg/00/61/17/16/1000_F_61171626_ddpb91axm60GMM9gpRtO5CaOkhPM6EtZ.jpg"
+    },
+    {
+      "itemname": "Cooking Oil",
+      "price": 200,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/05/94/13/23/1000_F_594132370_W4VOSsomFOTj5zr0bPqqeLtMZXLFKuyE.jpg"
+    },
+    {
+      "itemname": "Ginger",
+      "price": 100,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/00/68/26/93/1000_F_68269338_xIaDuUPUl9mXQmXCccLG0soYRl2Jx32l.jpg"
+    },
+    {
+      "itemname": "Pepper",
+      "price": 20,
+      "imageurl": "https://as2.ftcdn.net/v2/jpg/04/64/21/61/1000_F_464216167_Ds6AtEhOUruPx7GbUkxAxEjZq6vZdKB4.jpg"
+    }
+  ]
+}
